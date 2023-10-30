@@ -1,0 +1,9 @@
+Comandos do Terminal:
+
+npm init -y 
+npm install dotenv
+npm install express
+npm install cors --save
+
+node index 
+//após comando pode acessar no browser o endereço  localhost:3000/
